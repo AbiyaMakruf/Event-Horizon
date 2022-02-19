@@ -277,18 +277,12 @@ $username = $_POST["email"];
                                             <table border="0" cellpadding="0" cellspacing="0" width="100%" role="presentation">
                                               <tbody>
                                                 <tr>
-                                                  <td valign="top">
-                                                    <a href="https://the-eventhorizon.com/" style="text-decoration: none;"><img src="https://i.ibb.co/6v89YC0/272354.png" width="48" height="" alt="Login" style="max-width: 100%; height: auto; border: 0; line-height: 100%; outline: 0; -ms-interpolation-mode: bicubic; display: block; color: #1B1B1B;"></a>
-                                                  </td>
                                                 </tr>
                                                 <tr>
                                                   <td height="10" style="font-size: 1px; line-height: 1px;">&nbsp;</td>
                                                 </tr>
                                               </tbody>
                                               <tbody>
-                                                <tr>
-                                                  <td class="pc-fb-font" style="font-family: 'Fira Sans', Helvetica, Arial, sans-serif; font-size: 18px; font-weight: 500; line-height: 24px; letter-spacing: -0.2px; color: #ffffff" valign="top">Click Me To Login</td>
-                                                </tr>
                                                 <tr>
                                                   <td height="6" style="font-size: 1px; line-height: 1px;">&nbsp;</td>
                                                 </tr>
