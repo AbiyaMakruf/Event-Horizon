@@ -554,6 +554,10 @@ if( isset($_SESSION["login"])) {
             <p>Jl. Lodaya Bandung, Indonesia</p>
             <p><a href="tel:+62 821-2718-0662 ">+62 821-2718-0662</a></p>
             <p><a href="mailto: theeventhorizon.service@gmail.com">theeventhorizon.service@gmail.com</a></p>
+            <br>
+            <h4>Download Files</h4>
+            <p><a href="">Syarat & Ketentuan</a></p>
+            <p><a href="">Cara Order</a></p>
           </div>
         </div>
         <div class="col-lg-3">
@@ -567,6 +571,7 @@ if( isset($_SESSION["login"])) {
             </ul>
           </div>
         </div>
+        
         <div class="col-lg-3">
           <div class="footer-widget">
             <h4>Tentang Vendor Kami</h4>
