@@ -1,0 +1,150 @@
+  <!-- <section class="u-align-center u-clearfix u-section-1" id="carousel_b515">
+    <div class="u-clearfix u-sheet u-sheet-1">
+      <h1 class="u-text u-text-default u-text-1">Daftar Harga</h1>
+      <div class="u-expanded-width u-table u-table-responsive u-table-1">
+        <table class="u-table-entity u-table-entity-1">
+          <colgroup>
+            <col width="2.1%">
+            <col width="47.7%">
+            <col width="25.2%">
+            <col width="25%">
+          </colgroup>
+          <thead class="u-align-center u-palette-4-base u-table-header u-table-header-1">
+            <tr style="height: 89px;">
+              <th class="u-align-left u-border-5 u-border-white u-table-cell u-white u-table-cell-1">perbandingan harga</th>
+              <th class="u-border-5 u-border-white u-custom-color-1 u-table-cell u-table-cell-2"><b>GALACTIC</b>
+                <br>
+              </th>
+              <th class="u-border-5 u-border-white u-custom-color-2 u-table-cell u-table-cell-3"><b>STELLAR&nbsp;</b>
+                <br>
+              </th>
+              <th class="u-border-5 u-border-white u-custom-color-3 u-table-cell u-text-white u-table-cell-4"><b>PLANETARY</b>
+                <br>
+              </th>
+            </tr>
+          </thead>
+          <tbody class="u-align-center u-table-body">
+            <tr style="height: 71px;">
+              <td class="u-align-left u-border-2 u-border-no-left u-border-no-right u-border-white u-grey-5 u-table-cell u-table-cell-5">Jumlah Halaman Website</td>
+              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-grey-5 u-table-cell u-text-palette-2-base u-table-cell-6">Rp500.000,00</td>
+              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-grey-5 u-table-cell u-text-palette-2-base u-table-cell-7">Rp250.000,00</td>
+              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-grey-5 u-table-cell u-text-palette-2-base u-table-cell-8">Rp150.000,00</td>
+            </tr>
+            <tr style="height: 50px;">
+              <td class="u-align-left u-border-2 u-border-no-left u-border-no-right u-border-white u-first-column u-grey-5 u-table-cell u-table-cell-9">Harga Paket</td>
+              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-grey-5 u-table-cell u-table-cell-10">7 halaman</td>
+              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-grey-5 u-table-cell u-table-cell-11">3 halaman</td>
+              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-grey-5 u-table-cell u-table-cell-12">&nbsp;1 halaman</td>
+            </tr>
+            <tr style="height: 48px;">
+              <td class="u-align-left u-border-2 u-border-no-left u-border-no-right u-border-white u-first-column u-grey-5 u-table-cell u-table-cell-13">Pengeditan Gambar Sederhana (Crop,Resize)</td>
+              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-grey-5 u-table-cell u-table-cell-14">15 image + 1 logo gratis edit</td>
+              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-grey-5 u-table-cell u-table-cell-15"> 10 image + 1 logo gratis edit</td>
+              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-grey-5 u-table-cell u-table-cell-16"> 5 image + 1 logo gratis edit</td>
+            </tr>
+            <tr style="height: 48px;">
+              <td class="u-align-left u-border-2 u-border-no-left u-border-no-right u-border-white u-first-column u-grey-5 u-table-cell u-table-cell-17">SEO Basic (Tittle Web, Description Web,Favicon)&nbsp;</td>
+              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-grey-5 u-table-cell u-table-cell-18"> 7 halaman</td>
+              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-grey-5 u-table-cell u-table-cell-19"> 3 halaman</td>
+              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-grey-5 u-table-cell u-table-cell-20"> 1 halaman</td>
+            </tr>
+            <tr style="height: 73px;">
+              <td class="u-align-left u-border-2 u-border-no-left u-border-no-right u-border-white u-first-column u-grey-5 u-table-cell u-table-cell-21">Edit Page Setelah Website Jadi</td>
+              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-grey-5 u-table-cell u-table-cell-22">Free 3x edit</td>
+              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-grey-5 u-table-cell u-table-cell-23"> Free 1x edit</td>
+              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-grey-5 u-table-cell u-table-cell-24"> ✘</td>
+            </tr>
+            <tr style="height: 73px;">
+              <td class="u-align-left u-border-2 u-border-no-left u-border-no-right u-border-white u-grey-5 u-table-cell u-table-cell-25">Revisi</td>
+              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-grey-5 u-table-cell u-table-cell-26">5x Revisi Minor</td>
+              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-grey-5 u-table-cell u-table-cell-27">2x Revisi Minor</td>
+              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-grey-5 u-table-cell u-table-cell-28"> ✘</td>
+            </tr>
+            <tr style="height: 73px;">
+              <td class="u-align-left u-border-2 u-border-no-left u-border-no-right u-border-white u-grey-5 u-table-cell u-table-cell-29">Waktu Pengerjaan (Tidak Hari Minggu)</td>
+              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-grey-5 u-table-cell u-table-cell-30">7 - 10 hari</td>
+              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-grey-5 u-table-cell u-table-cell-31">5 - 7 hari</td>
+              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-grey-5 u-table-cell u-table-cell-32">3 - 5 hari</td>
+            </tr>
+            <tr style="height: 73px;">
+              <td class="u-align-left u-border-2 u-border-no-left u-border-no-right u-border-white u-grey-5 u-table-cell u-table-cell-33">Mobile Responsive</td>
+              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-grey-5 u-table-cell u-table-cell-34">✓</td>
+              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-grey-5 u-table-cell u-table-cell-35">✓</td>
+              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-grey-5 u-table-cell u-table-cell-36"> ✘</td>
+            </tr>
+            <tr style="height: 73px;">
+              <td class="u-align-left u-border-2 u-border-no-left u-border-no-right u-border-white u-grey-5 u-table-cell u-table-cell-37">Laporan Progress</td>
+              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-grey-5 u-table-cell u-table-cell-38">✓</td>
+              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-grey-5 u-table-cell u-table-cell-39">✓</td>
+              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-grey-5 u-table-cell u-table-cell-40">✓</td>
+            </tr>
+            <tr style="height: 73px;">
+              <td class="u-align-left u-border-2 u-border-no-left u-border-no-right u-border-white u-grey-5 u-table-cell u-table-cell-41">Live Preview&nbsp;</td>
+              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-grey-5 u-table-cell u-table-cell-42">✓</td>
+              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-grey-5 u-table-cell u-table-cell-43">✓</td>
+              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-grey-5 u-table-cell u-table-cell-44"> ✘</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section> -->
+
+  <!-- <section class="u-align-center u-clearfix u-section-2" id="carousel_5114">
+    <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
+      <h1 class="u-text u-text-default u-text-1">Daftar Harga Tambahan</h1>
+      <div class="u-expanded-width u-table u-table-responsive u-table-1">
+        <table class="u-table-entity u-table-entity-1">
+          <colgroup>
+            <col width="25%">
+            <col width="24.8%">
+            <col width="25.2%">
+            <col width="25%">
+          </colgroup>
+          <thead class="u-align-center u-palette-4-base u-table-header u-table-header-1">
+            <tr style="height: 89px;">
+              <th class="u-align-left u-border-5 u-border-white u-table-cell u-white u-table-cell-1"> perbandingan harga </th>
+              <th class="u-border-5 u-border-white u-custom-color-1 u-table-cell u-table-cell-2"><b>GALACTIC</b>
+              </th>
+              <th class="u-border-5 u-border-white u-custom-color-2 u-table-cell u-table-cell-3"><b>STELLAR</b>
+              </th>
+              <th class="u-border-5 u-border-white u-custom-color-3 u-table-cell u-text-white u-table-cell-4"><b>PLANETARY</b>
+              </th>
+            </tr>
+          </thead>
+          <tbody class="u-align-center u-table-body">
+            <tr style="height: 50px;">
+              <td class="u-align-left u-border-2 u-border-no-left u-border-no-right u-border-white u-first-column u-grey-5 u-table-cell u-table-cell-5"> Pengeditan Gambar Sederhana (Crop,Resize)</td>
+              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-grey-5 u-table-cell u-table-cell-6">Rp15.000,00/ 5 foto</td>
+              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-grey-5 u-table-cell u-table-cell-7"> Rp15.000,00/ 5 foto</td>
+              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-grey-5 u-table-cell u-table-cell-8"> Rp15.000,00/ 5 foto</td>
+            </tr>
+            <tr style="height: 48px;">
+              <td class="u-align-left u-border-2 u-border-no-left u-border-no-right u-border-white u-first-column u-grey-5 u-table-cell u-table-cell-9">Edit Page Setelah Website Jadi</td>
+              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-grey-5 u-table-cell u-table-cell-10">Rp20.000,00/ page</td>
+              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-grey-5 u-table-cell u-table-cell-11"> Rp20.000,00/ page</td>
+              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-grey-5 u-table-cell u-table-cell-12"> Rp20.000,00/ page</td>
+            </tr>
+            <tr style="height: 48px;">
+              <td class="u-align-left u-border-2 u-border-no-left u-border-no-right u-border-white u-first-column u-grey-5 u-table-cell u-table-cell-13">Tambah Halaman</td>
+              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-grey-5 u-table-cell u-table-cell-14">Rp50.000,00/ halaman</td>
+              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-grey-5 u-table-cell u-table-cell-15"> Rp50.000,00/ halaman</td>
+              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-grey-5 u-table-cell u-table-cell-16"> Rp50.000,00/ halaman</td>
+            </tr>
+            <tr style="height: 73px;">
+              <td class="u-align-left u-border-2 u-border-no-left u-border-no-right u-border-white u-first-column u-grey-5 u-table-cell u-table-cell-17">Jasa Pembuatan Konten Design (Hanya mendapatkan export file berupa jpeg,png,svg)</td>
+              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-grey-5 u-table-cell u-table-cell-18"> Rp 25.000/design</td>
+              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-grey-5 u-table-cell u-table-cell-19"> Rp 25.000/design</td>
+              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-grey-5 u-table-cell u-table-cell-20"> Rp 25.000/design</td>
+            </tr>
+            <tr style="height: 73px;">
+              <td class="u-align-left u-border-2 u-border-no-left u-border-no-right u-border-white u-grey-5 u-table-cell u-table-cell-21">Bantu Setup Hosting &amp; Domain</td>
+              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-grey-5 u-table-cell u-table-cell-22">Hubungi Admin Untuk Harga</td>
+              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-grey-5 u-table-cell u-table-cell-23">Hubungi Admin Untuk Harga</td>
+              <td class="u-border-2 u-border-no-left u-border-no-right u-border-white u-grey-5 u-table-cell u-table-cell-24">Hubungi Admin Untuk Harga</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section> -->

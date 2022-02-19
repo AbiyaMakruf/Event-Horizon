@@ -1,0 +1,344 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>GARAGE COCO INDONESIA</title>
+<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css"/>
+<link rel="stylesheet" type="text/css" href="css/font-awesome.min.css"/>
+<link rel="stylesheet" type="text/css" href="css/simple-line-icons.css"/>
+<link rel="stylesheet" type="text/css" href="css/animate.css"/>
+<link rel="stylesheet" type="text/css" href="style.css"/>
+<link rel="stylesheet" type="text/css" href="css/owl.carousel.css"/>
+<link rel="stylesheet" type="text/css" href="css/owl.theme.css"/>
+<link rel="stylesheet" type="text/css" href="css/owl.transitions.css"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href='https://fonts.googleapis.com/css?family=Work+Sans:400,100,200,300,500,600,800,900' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Oleo+Script+Swash+Caps:400,700' rel='stylesheet' type='text/css'>
+
+</head>
+
+<body id="myPage" data-spy="scroll" data-target=".navbar" data-offset="60">
+<div class="main-header" id="main-header">
+  <nav class="navbar mynav navbar-fixed-top">
+    <div class="container">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+        <a class="navbar-brand" href="#">Garage Coco Indonesia</a> </div>
+      <div class="collapse navbar-collapse" id="myNavbar">
+        <ul class="nav navbar-nav navbar-right">
+          <li class="active"><a href="#banner">Home</a></li>
+		  <li><a href="#about">About</a></li>
+          <li><a href="#work">Product</a></li>
+          <li><a href="#team">Team</a></li>
+          <li><a href="#contact">Contact Us</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+</div>
+<div class="banner" id="banner">
+  <div class="bg-overlay">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="banner-text">
+            <h2>Garage Coco <span>Indonesia</span></h2>
+            <p>supplier of coconut and coconut derivatives</p>
+            <a href= "https://api.whatsapp.com/send?phone=628132290123421&text=Halo%0ASaya%20Ingin%20Bekerja%20Sama" class="subscribe-button">Contact Us</a> </div>
+		</div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="about" id="about">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 text-center">
+        <h3>About Us</h3>
+      </div>
+      <div class="col-md-6">
+        <div class="about-text">
+          <p>
+Our company produces coconut shell charcoal at least 125/mt for each product, we can increase production capacity according to market demand. We prioritize quality to be able to compete in the international market. </p>
+          <p>We are engaged in manufacturing where we process coconut derivative products, namely coconut shells into charcoal. the products we market are charcoal briquettes shisha and charcoal barberque. </p>
+        </div>
+      </div>
+		<div class="col-sm-3">
+                    <div class="team-member" >
+                        <img src="images/2.png" alt="" height="250px" width="250px">
+                    </div>
+				</div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="features">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-4 col-sm-6 col-xs-12">
+        <div class="feature-box media">
+          <div class="icon-box text-center pull-left media-object"> <i class="icon-bulb"></i> </div>
+          <div class="feature-text media-body">
+            <h4>Integrity</h4>
+            <p class="feature-detail">Integrity means telling the truth, keeping our word and treating others with fairness and respect. Integrity is one of our most cherished assets. It must not be compromised.</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4 col-sm-6 col-xs-12">
+        <div class="feature-box media pull-left">
+          <div class="icon-box text-center pull-left media-object"> <i class="icon-eye"></i> </div>
+          <div class="feature-text media-body">
+            <h4>Quality</h4>
+            <p class="feature-detail">Quality is exhibited in many ways by selling and supporting products and services that delight customers, establishing a work environment , delivering financial results that meet investor expectations.</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4 col-sm-6 col-xs-12">
+        <div class="feature-box media pull-left">
+          <div class="icon-box text-center pull-left media-object"> <i class="icon-heart"></i> </div>
+          <div class="feature-text media-body">
+            <h4>Commitment</h4>
+            <p class="feature-detail">Commitment is important where we will continue to provide the best to our customers and investors all the time. Our opportunity to serve should be viewed as a privilege that is not to be taken for granted.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Portfolio -->
+<div id="work" class="portfolio">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-10 col-lg-offset-1 text-center text">
+        <h3>Our Product</h3>
+        <div class="row">
+          <div class="col-md-6 col-sm-6">
+            <div class="portfolio-item"> <a href="#"> <img class="img-portfolio img-responsive" src="images/portfolio-1.jpeg"> </a> </div>
+          </div>
+          <div class="col-md-6 col-sm-6">
+            <div class="portfolio-item"> <a href="#"> <img class="img-portfolio img-responsive" src="images/portfolio-2.jpeg"> </a> </div>
+          </div>
+          <div class="col-md-6 col-sm-6">
+            <div class="portfolio-item"> <a href="#"> <img class="img-portfolio img-responsive" src="images/portfolio-3.jpg"> </a> </div>
+          </div>
+          <div class="col-md-6 col-sm-6">
+            <div class="portfolio-item"> <a href="#"> <img class="img-portfolio img-responsive" src="images/portfolio-4.jpg"> </a> </div>
+          </div>
+        </div>
+        <!-- /.row (nested) --> 
+        <a href="#" class="view-more">View More Items</a> </div>
+      <!-- /.col-lg-10 --> 
+    </div>
+    <!-- /.row --> 
+  </div>
+  <!-- /.container --> 
+</div>
+<!-- Team Section -->
+	<div id="team" class="team">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Our Team</h2>
+                </div>
+            </div>
+			
+            <div class="row">
+			<div class="col-sm-3">
+                    <div class="team-member" >
+                        
+                    </div>
+                </div>
+                <div class="col-sm-3">
+                    <div class="team-member" >
+                        <img src="images/team/dicky rg.jpg" class="img-responsive img-circle" alt="" height="200px" width="200px">
+                        <h4>Dicky Sopianul Hadi</h4>
+                        <p class="text-muted">Lead Designer</p>
+                        <ul class="list-inline social-buttons">
+                            <li><a href="#"><i class="fa fa-twitter"></i></a>
+                            </li>
+                            <li><a href="https://web.facebook.com/dickymraz/"><i class="fa fa-facebook"></i></a>
+                            </li>
+                            <li><a href="#"><i class="fa fa-linkedin"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-sm-3">
+                    <div class="team-member">
+                        <img src="images/team/dicky rg.jpg" class="img-responsive img-circle" alt="" height="200px" width="200px">
+                        <h4>Dicky Sopianul Hadi</h4>
+                        <p class="text-muted">Lead Designer</p>
+                        <ul class="list-inline social-buttons">
+                            <li><a href="#"><i class="fa fa-twitter"></i></a>
+                            </li>
+                            <li><a href="https://web.facebook.com/dickymraz/"><i class="fa fa-facebook"></i></a>
+                            </li>
+                            <li><a href="#"><i class="fa fa-linkedin"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                   
+                </div>
+            </div>
+			
+			<br><br><br>
+			
+         <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+<div class="call-to-action">
+  <div class="call-overlay">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8 col-sm-10">
+          <div class="subscribe-text">
+            <h3>Subscribe For Updates</h3>
+            <p>Join our 1000+ subscribers and get access to the latest tools, freebies, product announcements and much more!</p>
+          </div>
+        </div>
+        <div class="col-md-4 text-center"> <a href="#" class="subscribe-button">Subscribe Now</a> </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="contact" id="contact">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="text-center">
+          <h3>Contact Us</h3>
+        </div>
+      </div>
+      <div class="col-md-7 col-sm-offset-0 col-sm-6 col-xs-offset-1 col-xs-10">
+        <div class="contact-form">
+          <form role="form">
+            <div class="col-md-6">
+              <input type="text" class="form-control" id="name" placeholder="Name">
+            </div>
+            <div class="col-md-6">
+              <input type="email" class="form-control" id="email" placeholder="Email">
+            </div>
+            <div class="col-md-12">
+              <textarea class="form-control" placeholder="Message" rows="6"></textarea>
+            </div>
+            <div class="col-md-12 text-center">
+              <button type="submit" class="contact-button">Send Message</button>
+            </div>
+          </form>
+        </div>
+      </div>
+      <div class="col-md-offset-1 col-md-4 col-sm-offset-1 col-sm-5 col-xs-offset-1 col-xs-10">
+        <div class="address">
+          <h4>Address</h4>
+          <p>Bandung,<br>
+            Jawa Barat<br>
+            Indonesia<br>
+            <div class="email">
+				<i class="fa fa-at"></i>dickysopian7@gmail.com<br />
+				<i class="fa fa-whatsapp"></i> <a href="https://api.whatsapp.com/send?phone=628132290123421&text=Halo%0ASaya%20Ingin%20Bekerja%20Sama" >+62 838 014 166 10</a>
+			</div>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-4"> <span class="copyright">Copyright &copy; Ethereal 2018-2021</span> </div>
+      <div class="col-md-4">
+        <ul class="list-inline social-buttons">
+          <li><a href="#"><i class="fa fa-twitter"></i></a> </li>
+          <li><a href="#"><i class="fa fa-facebook"></i></a> </li>
+          <li><a href="#"><i class="fa fa-linkedin"></i></a> </li>
+        </ul>
+      </div>
+      <div class="col-md-4">
+        <ul class="list-inline quicklinks">
+          <li>Designed by <a href="http://w3template.com">W3 Template</a> </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
+<script src="js/jquery.min.js"></script> 
+<script src="js/bootstrap.min.js"></script> 
+<script type="text/javascript" src="js/owl.carousel.min.js"></script> 
+<script type="text/javascript" src="js/jquery.countTo.js"></script> 
+<script type="text/javascript" src="js/jquery.waypoints.min.js"></script> 
+<script>
+$(document).ready(function() {
+     
+      $("#owl-demo").owlCarousel({
+     
+          navigation : false, // Show next and prev buttons
+          slideSpeed : 500,
+		  autoPlay : 3000,
+          paginationSpeed : 400,
+          singleItem:true
+     
+          // "singleItem:true" is a shortcut for:
+          // items : 1, 
+          // itemsDesktop : false,
+          // itemsDesktopSmall : false,
+          // itemsTablet: false,
+          // itemsMobile : false
+     
+      });
+     
+    });
+
+	/*$('.timer').each(count);*/
+	jQuery(function ($) {
+      // custom formatting example
+      $('.timer').data('countToOptions', {
+        formatter: function (value, options) {
+          return value.toFixed(options.decimals).replace(/\B(?=(?:\d{3})+(?!\d))/g, ',');
+        }
+      });
+
+
+  // start all the timers
+      $('#testimonials').waypoint(function() {
+    $('.timer').each(count);
+	});
+ 
+      function count(options) {
+        var $this = $(this);
+        options = $.extend({}, options || {}, $this.data('countToOptions') || {});
+        $this.countTo(options);
+      }
+    });
+
+
+	$(document).ready(function(){
+  // Add smooth scrolling to all links in navbar + footer link
+  $(".navbar a, footer a[href='#myPage']").on('click', function(event) {
+
+  // Prevent default anchor click behavior
+  event.preventDefault();
+
+  // Store hash
+  var hash = this.hash;
+
+  // Using jQuery's animate() method to add smooth page scroll
+  // The optional number (900) specifies the number of milliseconds it takes to scroll to the specified area
+  $('html, body').animate({
+    scrollTop: $(hash).offset().top
+  }, 900, function(){
+
+    // Add hash (#) to URL when done scrolling (default click behavior)
+    window.location.hash = hash;
+    });
+  });
+})
+</script>
+</body>
+</html>
