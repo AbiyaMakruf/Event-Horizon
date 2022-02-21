@@ -1,6 +1,6 @@
 <?php   
 $email = $_POST["email"]; 
-$username = $_POST["email"];
+$username = $_POST["username"];
 ?>
 
 
@@ -179,7 +179,7 @@ $username = $_POST["email"];
 </head>
 <body style="width: 100% !important; margin: 0; padding: 0; mso-line-height-rule: exactly; -webkit-font-smoothing: antialiased; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; background-color: #f4f4f4" class="">
   <div style="display: none !important; visibility: hidden; opacity: 0; overflow: hidden; mso-hide: all; height: 0; width: 0; max-height: 0; max-width: 0; font-size: 1px; line-height: 1px; color: #151515;">
-  Terima kasih <?php echo $username?> Sudah Berlangganan.
+  Terima kasih <?php echo $username?> website anda akan segera kami kerjakan.
   </div>
 
   <table class="pc-email-body" width="100%" bgcolor="#f4f4f4" border="0" cellpadding="0" cellspacing="0" role="presentation" style="table-layout: fixed;">
@@ -207,12 +207,12 @@ $username = $_POST["email"];
                   <table width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation">
                     <tbody>
                       <tr>
-                        <td class="pc-sm-p-20 pc-xs-p-10" bgcolor="#fbbe00" valign="top" style="padding: 25px 30px; background-color: #fbbe00; border-radius: 8px">
+                        <td class="pc-sm-p-20 pc-xs-p-10" bgcolor="#001372" valign="top" style="padding: 25px 30px; background-color: #001372; border-radius: 8px">
                           <table width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation">
                             <tbody>
                               <tr>
                                 <td align="center" valign="top" style="padding: 10px;">
-                                  <a href="https://the-eventhorizon.com/" style="text-decoration: none;"><img src="https://i.ibb.co/307fDkz/Header-Email.png" width="128" height="" alt="Event Horizon" style="height: auto; max-width: 100%; border: 0; line-height: 100%; outline: 0; -ms-interpolation-mode: bicubic; color: #ffffff; font-size: 14px;"></a>
+                                  <a href="https://the-eventhorizon.com/" style="text-decoration: none;"><img src="https://i.ibb.co/MgCvh2g/Logo-Form-2x.png" width="280" height="" alt="Event Horizon" style="height: auto; max-width: 100%; border: 0; line-height: 100%; outline: 0; -ms-interpolation-mode: bicubic; color: #ffffff; font-size: 14px;"></a>
                                 </td>
                               </tr>
                             </tbody>
@@ -233,11 +233,11 @@ $username = $_POST["email"];
                   <table border="0" cellpadding="0" cellspacing="0" width="100%" role="presentation">
                     <tbody>
                       <tr>
-                        <td class="pc-sm-p-35-10-15 pc-xs-p-25-0-5" style="padding: 40px 20px; background-color: #fbbe00; border-radius: 8px" valign="top" bgcolor="#fbbe00">
+                        <td class="pc-sm-p-35-10-15 pc-xs-p-25-0-5" style="padding: 40px 20px; background-color: #001372; border-radius: 8px" valign="top" bgcolor="#001372">
                           <table border="0" cellpadding="0" cellspacing="0" width="100%" role="presentation">
                             <tbody>
                               <tr>
-                                <td class="pc-fb-font" style="font-family: 'Fira Sans', Helvetica, Arial, sans-serif; font-size: 24px; font-weight: 700; line-height: 34px; letter-spacing: -0.4px; color: #e30050; padding: 0 20px" valign="top">Hi, <?php echo $email?></td>
+                                <td class="pc-fb-font" style="font-family: 'Fira Sans', Helvetica, Arial, sans-serif; font-size: 24px; font-weight: 700; line-height: 34px; letter-spacing: -0.4px; color: #fff; padding: 0 20px" valign="top">Hi, <?php echo $nama_depan; echo " "; echo $nama_belakang?></td>
                               </tr>
                               <tr>
                                 <td height="10" style="font-size: 1px; line-height: 1px;">&nbsp;</td>
@@ -245,18 +245,53 @@ $username = $_POST["email"];
                             </tbody>
                             <tbody>
                               <tr>
-                                <td class="pc-fb-font" style="font-family: 'Fira Sans', Helvetica, Arial, sans-serif; font-size: 18px; font-weight: 300; line-height: 28px; letter-spacing: -0.2px; color: #ffffff; padding: 0 20px" valign="top">Terima Kasih Sudah Berlangganan Di the-eventhorizon.com <br>Jika Ingin Berhenti Berlangganan, Bisa Hubungi Kami Melalui Whatsapp +62-821-2718-0662.<br><br>
+                                <td class="pc-fb-font" style="font-family: 'Fira Sans', Helvetica, Arial, sans-serif; font-size: 18px; font-weight: 300; line-height: 28px; letter-spacing: -0.2px; color: #fff; padding: 0 20px" valign="top">Terima Kasih Sudah Mengisi Formulir Order <br>Website Anda Akan Segera Kami Kerjakan, Jika Ada Pertanyaan Bisa Hubungi Kami Melalui Whatsapp +62-821-2718-0662.<br><br>
                                   <div class="tg-wrap">
                                     <table class="tg" style="border-collapse: collapse; border-spacing: 0; table-layout: fixed; width: 276px;">
                                       <colgroup>
-                                        <col style="width: 108px;">
-                                        <col style="width: 168px;"> </colgroup>
+                                        <col style="width: 200px;">
+                                        <col style="width: 300px;"> </colgroup>
                                       <tbody>
 
                                       
                                         <tr>
-                                          <td style="background-color: #ffffff; color: #fe0000; font-family: Arial, sans-serif; font-size: 14px; font-weight: bold; overflow: hidden; padding: 10px 5px; text-align: left; vertical-align: top; word-break: normal; border: 1px solid black;">Email</td>
-                                          <td style="background-color: #ffffff; color: #fe0000; font-family: Arial, sans-serif; font-size: 14px; overflow: hidden; padding: 10px 5px; text-align: left; vertical-align: top; word-break: normal; border: 1px solid black;"><?php echo $email?></td>
+                                          <td style="background-color: #ffffff; color: black; font-family: Arial, sans-serif; font-size: 14px; font-weight: bold; overflow: hidden; padding: 10px 5px; text-align: left; vertical-align: top; word-break: normal; border: 1px solid black;">Email</td>
+                                          <td style="background-color: #ffffff; color: #3567b1; font-family: Arial, sans-serif; font-size: 14px; overflow: hidden; padding: 10px 5px; text-align: left; vertical-align: top; word-break: normal; border: 1px solid black;"><?php echo $email?></td>
+                                        </tr>
+
+                                        <tr>
+                                          <td style="background-color: #ffffff; color: black; font-family: Arial, sans-serif; font-size: 14px; font-weight: bold; overflow: hidden; padding: 10px 5px; text-align: left; vertical-align: top; word-break: normal; border: 1px solid black;">Username</td>
+                                          <td style="background-color: #ffffff; color: #3567b1; font-family: Arial, sans-serif; font-size: 14px; overflow: hidden; padding: 10px 5px; text-align: left; vertical-align: top; word-break: normal; border: 1px solid black;"><?php echo $username?></td>
+                                        </tr>
+
+                                        <tr>
+                                          <td style="background-color: #ffffff; color: black; font-family: Arial, sans-serif; font-size: 14px; font-weight: bold; overflow: hidden; padding: 10px 5px; text-align: left; vertical-align: top; word-break: normal; border: 1px solid black;">Nama Depan</td>
+                                          <td style="background-color: #ffffff; color: #3567b1; font-family: Arial, sans-serif; font-size: 14px; overflow: hidden; padding: 10px 5px; text-align: left; vertical-align: top; word-break: normal; border: 1px solid black;"><?php echo $nama_depan?></td>
+                                        </tr>
+
+                                        <tr>
+                                          <td style="background-color: #ffffff; color: black; font-family: Arial, sans-serif; font-size: 14px; font-weight: bold; overflow: hidden; padding: 10px 5px; text-align: left; vertical-align: top; word-break: normal; border: 1px solid black;">Nama Belakang</td>
+                                          <td style="background-color: #ffffff; color: #3567b1; font-family: Arial, sans-serif; font-size: 14px; overflow: hidden; padding: 10px 5px; text-align: left; vertical-align: top; word-break: normal; border: 1px solid black;"><?php echo $nama_belakang?></td>
+                                        </tr>
+
+                                        <tr>
+                                          <td style="background-color: #ffffff; color: black; font-family: Arial, sans-serif; font-size: 14px; font-weight: bold; overflow: hidden; padding: 10px 5px; text-align: left; vertical-align: top; word-break: normal; border: 1px solid black;">Instansi</td>
+                                          <td style="background-color: #ffffff; color: #3567b1; font-family: Arial, sans-serif; font-size: 14px; overflow: hidden; padding: 10px 5px; text-align: left; vertical-align: top; word-break: normal; border: 1px solid black;"><?php echo $instansi?></td>
+                                        </tr>
+
+                                        <tr>
+                                          <td style="background-color: #ffffff; color: black; font-family: Arial, sans-serif; font-size: 14px; font-weight: bold; overflow: hidden; padding: 10px 5px; text-align: left; vertical-align: top; word-break: normal; border: 1px solid black;">Nama Project</td>
+                                          <td style="background-color: #ffffff; color: #3567b1; font-family: Arial, sans-serif; font-size: 14px; overflow: hidden; padding: 10px 5px; text-align: left; vertical-align: top; word-break: normal; border: 1px solid black;"><?php echo $nama_project?></td>
+                                        </tr>
+
+                                        <tr>
+                                          <td style="background-color: #ffffff; color: black; font-family: Arial, sans-serif; font-size: 14px; font-weight: bold; overflow: hidden; padding: 10px 5px; text-align: left; vertical-align: top; word-break: normal; border: 1px solid black;">Paket Yang Di Ambil</td>
+                                          <td style="background-color: #ffffff; color: #3567b1; font-family: Arial, sans-serif; font-size: 14px; overflow: hidden; padding: 10px 5px; text-align: left; vertical-align: top; word-break: normal; border: 1px solid black;"><?php echo $paket_utama?></td>
+                                        </tr>
+
+                                        <tr>
+                                          <td style="background-color: #ffffff; color: black; font-family: Arial, sans-serif; font-size: 14px; font-weight: bold; overflow: hidden; padding: 10px 5px; text-align: left; vertical-align: top; word-break: normal; border: 1px solid black;">Paket Tambahan (Optional)</td>
+                                          <td style="background-color: #ffffff; color: #3567b1; font-family: Arial, sans-serif; font-size: 14px; overflow: hidden; padding: 10px 5px; text-align: left; vertical-align: top; word-break: normal; border: 1px solid black;"><?php echo $paket_tambahan?></td>
                                         </tr>
 
 

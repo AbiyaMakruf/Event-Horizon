@@ -147,7 +147,7 @@ $statusrequirementrevisi = $row['statusrequirementrevisi'];
             </a>
             <div class="collapse" id="ui-basic">
               <ul class="nav flex-column sub-menu">
-                <li class="nav-item"> <a class="nav-link" href="">Version 1.0</a></li>
+                <li class="nav-item"> <a class="nav-link" href="" id="live-preview">Version 1.0</a></li>
                 <!-- <li class="nav-item"> <a class="nav-link" href="pages/ui-features/dropdowns.html">Dropdowns</a></li>
                 <li class="nav-item"> <a class="nav-link" href="pages/ui-features/typography.html">Typography</a></li> -->
               </ul>
@@ -166,7 +166,7 @@ $statusrequirementrevisi = $row['statusrequirementrevisi'];
               <ul class="nav flex-column sub-menu">
                 <li class="nav-item"> <a class="nav-link" href="">Syarat & Ketentuan </a></li>
                 <li class="nav-item"> <a class="nav-link" href="">Cara Order</a></li>
-                <li class="nav-item"> <a class="nav-link" href="">Website & Assets</a></li>
+                <li class="nav-item"> <a class="nav-link" href="" id="folder-asset-client">Website & Assets</a></li>
               </ul>
             </div>
           </li>
@@ -878,6 +878,18 @@ $statusrequirementrevisi = $row['statusrequirementrevisi'];
         }
         
       });
+    </script>
+    <script>
+      var myLink = document.getElementById('live-preview');
+      myLink.onclick = function(){
+        alert("Maaf live preview untuk website anda belum tersedia.");
+        }
+    </script>
+        <script>
+      var myLink = document.getElementById('folder-asset-client');
+      myLink.onclick = function(){
+        alert("Maaf link folder untuk asset anda belum tersedia.");
+        }
     </script>
   </body>
 </html>
