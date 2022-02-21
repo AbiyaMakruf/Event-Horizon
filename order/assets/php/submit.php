@@ -46,6 +46,7 @@ $kebijakan_privasi = $_POST["kebijakanprivasi"];
 $syarat_ketentuan = $_POST["syaratketentuan"];
 
 mysqli_query($conn, "INSERT INTO dataform VALUES('', '$email','$username','$nama_depan','$nama_belakang','$instansi','$nama_project','$paket_utama','$paket_tambahan','$cara_order','$kebijakan_privasi','$syarat_ketentuan')");
+require('send-mail-form.php');
 echo '<script type="text/javascript"> form(); </script>';
 }
 
