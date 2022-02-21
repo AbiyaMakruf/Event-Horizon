@@ -33,14 +33,15 @@ if( isset($_POST["uploadform"])){
 $email = $_POST["email"];
 $username = $_POST["username"];
 $nama_depan = $_POST["namadepan"];
-$nama_belakang = $_POST["namadepan"];
+$nama_belakang = $_POST["namabelakang"];
 $instansi = $_POST["instansi"];
 $nama_project = $_POST["namaproject"];
 $paket_utama = $_POST["paketutama"];
 foreach ($_POST['pakettambahan'] as $value) {
-  $paket_tambahan.= $value.", ";
+        $paket_tambahan.= $value.", ";
 }
 //$paket_tambahan = implode(',',$_POST['pakettambahan']);
+
 $cara_order = $_POST["caraorder"];
 $kebijakan_privasi = $_POST["kebijakanprivasi"];
 $syarat_ketentuan = $_POST["syaratketentuan"];

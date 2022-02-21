@@ -237,7 +237,7 @@ $username = $_POST["username"];
                           <table border="0" cellpadding="0" cellspacing="0" width="100%" role="presentation">
                             <tbody>
                               <tr>
-                                <td class="pc-fb-font" style="font-family: 'Fira Sans', Helvetica, Arial, sans-serif; font-size: 24px; font-weight: 700; line-height: 34px; letter-spacing: -0.4px; color: #fff; padding: 0 20px" valign="top">Hi, <?php echo $username?></td>
+                                <td class="pc-fb-font" style="font-family: 'Fira Sans', Helvetica, Arial, sans-serif; font-size: 24px; font-weight: 700; line-height: 34px; letter-spacing: -0.4px; color: #fff; padding: 0 20px" valign="top">Hi, <?php echo $nama_depan; echo " "; echo $nama_belakang?></td>
                               </tr>
                               <tr>
                                 <td height="10" style="font-size: 1px; line-height: 1px;">&nbsp;</td>
