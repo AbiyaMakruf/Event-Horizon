@@ -556,8 +556,9 @@ if( isset($_SESSION["login"])) {
             <p><a href="mailto: theeventhorizon.service@gmail.com">theeventhorizon.service@gmail.com</a></p>
             <br>
             <h4>Download Files</h4>
-            <p><a href="">Syarat & Ketentuan</a></p>
-            <p><a href="">Cara Order</a></p>
+            <p><a target="blank" href="https://drive.google.com/file/d/1LluIhA0TieMO3VqKl9oapYJKzsKD3BHu/view?usp=sharing">Cara Order</a></p>
+            <p><a target="blank" href="https://drive.google.com/file/d/1pN_DPnASPqflxIBf4seM2iGW9gTKMIpw/view?usp=sharing">Kebijakan Privasi</a></p>
+            <p><a target="blank" href="https://drive.google.com/file/d/1XrRo7R-x3h1kw4n1K001AL-Fy6-uEQ82/view?usp=sharing">Syarat & Ketentuan</a></p>
           </div>
         </div>
         <div class="col-lg-3">
