@@ -114,19 +114,19 @@
                   </div>
                   <div class="u-form-checkbox u-form-group u-form-group-9">
                     <input type="checkbox" id="caraorder" name="caraorder" value="Setuju" required="required">
-                    <label for="checkbox-ae60" class="u-label u-text-white u-label-9"> Saya sudah membaca &amp; memahami tata&nbsp;<a href="https://youtube.com" class="u-active-none u-border-none u-btn u-button-style u-hover-none u-none u-text-palette-1-base u-btn-1" target="_blank">cara order</a>
+                    <label for="checkbox-ae60" class="u-label u-text-white u-label-9"> Saya sudah membaca &amp; memahami tata&nbsp;<a target="blank" href="https://drive.google.com/file/d/1LluIhA0TieMO3VqKl9oapYJKzsKD3BHu/view?usp=sharing" class="u-active-none u-border-none u-btn u-button-style u-hover-none u-none u-text-palette-1-base u-btn-1" target="_blank">cara order</a>
                     </label>
                   </div>
                   <div class="u-form-checkbox u-form-group u-form-group-10">
                     <input type="checkbox" id="kebijakanprivasi" name="kebijakanprivasi" value="Setuju" required="required">
-                    <label for="checkbox-df2c" class="u-label u-text-white u-label-10">Saya menyetujui&nbsp;<a href="https://youtube.com" class="u-active-none u-border-none u-btn u-button-style u-hover-none u-none u-text-palette-1-base u-btn-2" target="_blank" rel="nofollow">kebijakan privasi&nbsp;</a>
+                    <label for="checkbox-df2c" class="u-label u-text-white u-label-10">Saya menyetujui&nbsp;<a target="blank" href="https://drive.google.com/file/d/1pN_DPnASPqflxIBf4seM2iGW9gTKMIpw/view?usp=sharing" class="u-active-none u-border-none u-btn u-button-style u-hover-none u-none u-text-palette-1-base u-btn-2" target="_blank" rel="nofollow">kebijakan privasi&nbsp;</a>
                       <span style="background-color: #001372; color: #ffffff ; font-family: 'Open Sans',sans-serif; font-size: 1rem;">yang berlaku</span>
                     </label>
                     <br>
                   </div>
                   <div class="u-form-checkbox u-form-group u-form-group-11">
                     <input type="checkbox" id="syaratketentuan" name="syaratketentuan" value="Setuju" required="required">
-                    <label for="checkbox-de2a" class="u-label u-text-white u-label-11"> Saya menyetujui&nbsp;<a href="https://youtube.com" class="u-active-none u-border-none u-btn u-button-style u-hover-none u-none u-text-palette-1-base u-btn-3" target="_blank" rel="nofollow">syarat &amp; ketentuan</a>&nbsp;<span style="color: #ffffff ; text-align: start; font-size: 1rem; background-color: #001372; font-family: 'Open Sans',sans-serif;">yang berlaku</span>
+                    <label for="checkbox-de2a" class="u-label u-text-white u-label-11"> Saya menyetujui&nbsp;<a target="blank" href="https://drive.google.com/file/d/1XrRo7R-x3h1kw4n1K001AL-Fy6-uEQ82/view?usp=sharing class="u-active-none u-border-none u-btn u-button-style u-hover-none u-none u-text-palette-1-base u-btn-3" target="_blank" rel="nofollow">syarat &amp; ketentuan</a>&nbsp;<span style="color: #ffffff ; text-align: start; font-size: 1rem; background-color: #001372; font-family: 'Open Sans',sans-serif;">yang berlaku</span>
                     </label>
                   </div>
                   <div class="u-align-left u-form-group u-form-submit u-form-group-12">
