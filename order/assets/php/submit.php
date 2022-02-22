@@ -37,9 +37,14 @@ $nama_belakang = $_POST["namabelakang"];
 $instansi = $_POST["instansi"];
 $nama_project = $_POST["namaproject"];
 $paket_utama = $_POST["paketutama"];
-foreach ($_POST['pakettambahan'] as $value) {
-        $paket_tambahan.= $value.", ";
+if($_POST['pakettambahan']==NULL){
+        $paket_tambahan = "Tidak ada opsi tambahan yang di pilih.";
+}else{
+        foreach ($_POST['pakettambahan'] as $value) {
+                $paket_tambahan.= $value.", ";
+        }   
 }
+
 //$paket_tambahan = implode(',',$_POST['pakettambahan']);
 
 $cara_order = $_POST["caraorder"];
