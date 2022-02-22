@@ -140,7 +140,7 @@
         </div>
       </div>
     </div>
-    <img class="u-image u-image-default u-image-1" src="images/Untitled-2.png" alt="" data-image-width="688" data-image-height="432">
+    <img class="u-image u-image-default u-image-1" src="images/form-bottom-bg.svg" alt="" data-image-width="688" data-image-height="432">
   </section>
   
 </body>
