@@ -67,7 +67,7 @@ if($_COOKIE['cooperate'] === "yes"){
           <nav class="main-nav">
             <!-- ***** Logo Start ***** -->
             <a href="../" class="logo">
-              <img src="../../assets/images/Header Website Blue.png" alt="The-EventHorizon">
+              <img src="../../assets/images/header/logo-eventhorizon-blue.png" alt="The-EventHorizon">
             </a>
             <!-- ***** Logo End ***** -->
             <!-- ***** Menu Start ***** -->

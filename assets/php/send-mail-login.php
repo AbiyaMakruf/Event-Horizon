@@ -30,17 +30,17 @@ try {
     $mail->isSMTP();                                            //Send using SMTP
     $mail->Host       = 'the-eventhorizon.com';                     //Set the SMTP server to send through
     $mail->SMTPAuth   = true;                                   //Enable SMTP authentication
-    $mail->Username   = 'admin@the-eventhorizon.com';                     //SMTP username
+    $mail->Username   = 'administrator@the-eventhorizon.com';                     //SMTP username
     $mail->Password   = 'Yiis5413';                               //SMTP password
     $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;            //Enable implicit TLS encryption
     $mail->Port       = 465;                                    //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
 
     //Recipients
-    $mail->setFrom('admin@the-eventhorizon.com', 'Admin Event Horizon');
+    $mail->setFrom('administrator@the-eventhorizon.com', 'Admin Event Horizon');
     $mail->addAddress($email);    //Name is optional
-    $mail->addReplyTo('admin@the-eventhorizon.com', 'Information');
-    $mail->addCC('admin@the-eventhorizon.com');
-    $mail->addBCC('admin@the-eventhorizon.com');
+    $mail->addReplyTo('administrator@the-eventhorizon.com', 'Information');
+    $mail->addCC('administrator@the-eventhorizon.com');
+    $mail->addBCC('administrator@the-eventhorizon.com');
 
     //Attachments
     //$mail->addAttachment('/var/tmp/file.tar.gz');         //Add attachments
